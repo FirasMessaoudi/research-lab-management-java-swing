@@ -1,0 +1,20 @@
+-------------Curruculum Vitae-------------------
+
+
+I-Information Personel:
+
+Cin: 11392568
+Nom: messaoudi
+Prenom: firas
+Age: 21
+Telephone: 50383993
+Email: firas_messaoudi@outlook.fr
+Niveau: Mastere
+Intitule du Memoire du mastere : informatique de gestion
+
+II-Production:
+
+Titre : 1312
+Date de publication : 2017-04-06
+Titre : leaders
+Date de publication : 2017-04-30

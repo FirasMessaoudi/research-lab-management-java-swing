@@ -1,0 +1,17 @@
+-------------Curruculum Vitae-------------------
+
+
+I-Information Personel:
+
+Cin: 55555555
+Nom: messaoudi
+Prenom: med amine
+Age: 28
+Telephone: 95356634
+Email: medamine@yahoo.fr
+Niveau: Doctorant
+Titre These : how to earn mony
+Statut: Contrat Assistant
+
+II-Production:
+

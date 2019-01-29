@@ -1,0 +1,8 @@
+------------------STATISTIQUES DU LABO------------------------------
+
+
+Le nombre Total des chercheurs est 8
+Le nombre des etudiant en mastere est 2
+Le nombre d'enseignant est 4
+Le nombre de doctorant est 2
+Le nombre de production est 6

@@ -1,0 +1,18 @@
+-------------Curruculum Vitae-------------------
+
+
+I-Information Personel:
+
+Cin: 00000000
+Nom: scofield
+Prenom: michael
+Age: 40
+Telephone: 74185296
+Email: michael.scofield@yahoo.fr
+
+II-Production:
+
+Titre : acab
+Date de publication : 2017-04-12
+Titre : winners
+Date de publication : 2017-04-28
